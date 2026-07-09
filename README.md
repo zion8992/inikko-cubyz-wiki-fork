@@ -20,7 +20,7 @@ If you haven't yet opened a terminal, please open one and navigate to `Cubyz-Wik
 cd Cubyz-Wiki
 ```
 
-To locally build Cubyz Wiki you ill need Python interpreter in [version 3.10 or newer](https://www.python.org/downloads/).
+To locally build Cubyz Wiki you will need Python interpreter in [version 3.10 or newer](https://www.python.org/downloads/).
 To install necessary requirements it is recommended to create isolated environment:
 
 ```
