@@ -16,6 +16,7 @@ theme:
     - content.action.edit
 
 plugins:
+  - search
   - offline
 
 markdown_extensions:
